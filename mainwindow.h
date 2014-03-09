@@ -20,6 +20,10 @@ private slots:
     void RollFourSided();
     void RollSixSided();
     void RollEightSided();
+    void RollTenSided();
+    void RollTwelveSided();
+    void RollTwentySided();
+    void RollHundredSided();
 
 private:
     void RollAndDisplay(int sides,int count);
